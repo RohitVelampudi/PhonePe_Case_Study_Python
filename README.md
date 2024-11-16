@@ -51,4 +51,4 @@ The analysis was conducted on a dataset containing:
 ## How to Use
 1. Clone the repository:  
    ```bash
-   git clone <repository_url>
+   git clone <https://github.com/RohitVelampudi/PhonePe_Case_Study_Python>
